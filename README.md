@@ -11,9 +11,6 @@
 - **Installers** are published via **GitHub Releases** (or your chosen distribution channel). Download the latest `.exe` / installer for Windows from the release page.
 - **系统要求（参考）：** Windows 10/11（以实际发布说明为准）；建议 1280×800 及以上分辨率。
 
-若此仓库为「仅发布安装包、不含源码」的公开仓库，请将 **Releases** 链接写在此处，例如：  
-`https://github.com/<org-or-user>/<repo>/releases`
-
 ---
 
 ## Quick start | 快速上手
