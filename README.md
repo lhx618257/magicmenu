@@ -1,8 +1,8 @@
-# MagicMenu
+# Menu Engineer
 
-**English:** MagicMenu turns your sales data into clearer menu and dish performance — import orders, map fields once, then explore analytics and a growth checklist built for restaurant operators. Desktop app (**Tauri 2** + **Vue 3** + **TypeScript**).
+**English:** Menu Engineer turns your sales data into clearer menu and dish performance — import orders, map fields once, then explore analytics and a growth checklist built for restaurant operators. Desktop app (**Tauri 2** + **Vue 3** + **TypeScript**).
 
-**中文：** MagicMenu 面向餐饮经营者，把订单数据变成可看的菜单与菜品表现：导入销售明细、完成字段与主食配置后，即可进行菜单/菜品分析与增长执行清单。桌面客户端（**Tauri 2** + **Vue 3** + **TypeScript**）。
+**中文：** Menu Engineer 面向餐饮经营者，把订单数据变成可看的菜单与菜品表现：导入销售明细、完成字段与主食配置后，即可进行菜单/菜品分析与增长执行清单。桌面客户端（**Tauri 2** + **Vue 3** + **TypeScript**）。
 
 ---
 
@@ -27,13 +27,13 @@
 
 ## Privacy | 隐私说明
 
-- 分析以**本地客户端**为主：导入文件与会话状态主要用于在本机完成计算与展示；不向 MagicMenu 服务器上传任何订单数据。
+- 分析以**本地客户端**为主：导入文件与会话状态主要用于在本机完成计算与展示；不向 Menu Engineer 运营方服务器上传任何订单数据。
 
 ---
 
 ## Contact | 联系方式
 
-应用内 **关于 / Contact the author** 页面提供作者联系信息与邮件说明。
+应用内 **关于 / About** 页面提供作者联系信息与邮件说明（建议邮件主题注明 **Menu Engineer**）。
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-**Product identifier（Tauri）：** `com.magicmenu.app` · **当前版本（package）：** `0.1.0` — 发布时请与 **GitHub Release tag** 及安装包版本号对齐。
+**Product identifier（Tauri）：** 主版 `com.magicmenu.app` · 双率专版 `com.menuengineer.dualmetric` · **当前版本（package）：** `0.1.0` — 发布时请与 **GitHub Release tag** 及安装包版本号对齐。
