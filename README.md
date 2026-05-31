@@ -6,6 +6,15 @@
 
 ---
 
+## Screenshots | 产品截图
+**Dual-Metric Edition** — dual-metric bubble quadrants & data-backed suggestions (English UI)
+<p align="center">
+  <img src="menu-engineer-dual-metric-chart.png" alt="Menu Engineer dual-metric bubble chart" width="920" />
+</p>
+<p align="center">
+  <img src="menu-engineer-dual-metric-suggestions-en.png" alt="Menu Engineer data-backed suggestions" width="920" />
+</p>
+
 ## Download & install | 下载与安装
 
 - **Installers** are published via **GitHub Releases** (or your chosen distribution channel). Download the latest `.exe` / installer for Windows from the release page.
